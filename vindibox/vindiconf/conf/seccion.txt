@@ -1,0 +1,22 @@
+#Documentacion para desarrolladores poder añadir sus propios addons a la lista general.
+name="Nombre del Addon" #Demostracion para añadir Addon.
+plugin="nombre.addon"
+url="http://web.com/carpetas/nombre.addon/"
+repository="repository.addon" #poner solo "none"  (sin comillas) sino quereis añadir repositorio con el
+repositoryxml="http://web.com/carpetas/addons.xml" #Dejar en estas secciones solo como "http://"
+repositoryurl="http://web.com/carpetas/repository.nombre/"
+icon="http://web.com/carpetas/nombre.addon/icon.png"
+fanart="http://web.com/carpetas/nombre.addon/fanart.png"
+adult="no"
+description="Descripcion del addon"
+
+name="Nombre del Repositorio" #Demostracion para añadir repositorio.
+plugin="repository.nombre"
+url="http://web.net/carpetas/repository.nombre/"
+repository="repository.nombre"
+repositoryxml="http://web.com/carpetas/addons.xml"
+repositoryurl="http://web.net/carpetas/repository.nombre/"
+icon="http://nombre.net/carpetas/repository.nombre/icon.png"
+fanart="http://web.com/carpetas/nombre.addon/fanart.png"
+adult="no"
+description="Descripcion del repositorio"

@@ -1,0 +1,17 @@
+name="Para Kodi17 o Mygica,no Kodi16, SPMC o variantes."
+url="none"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Puede haber cortes de servicio hasta que termine el proceso"
+
+name="[Actual] VindiBox 0.7"
+url="https://archive.org/download/vindibox/vindibox07.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configuracion para Kodi 17 estilo VindiBox desarrollada para http://androidtv.info o https://t.me/androidtvinfo Descarga:120Mb, Instalada:300Mb"
+
+name="[Mini] VindiBox 0.7 Mini"
+url="https://archive.org/download/vindibox/vindibox07mini.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Con skin y addons de dependencias, quitados los addons de video y musica. Descarga:100Mb, Instalada:200Mb"
