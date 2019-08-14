@@ -1,3 +1,9 @@
+name="Instalador Vindibox 0.7 Soporte archive"
+url="https://archive.org/download/vindiboxbk/vindibox07s.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
 name="Instalador Vindibox 0.7 Soporte"
 url="http://vindiboxsoporte.androidtv.info/vindibox07s.zip"
 img="http://vindibox.androidtv.info/icon.png"
