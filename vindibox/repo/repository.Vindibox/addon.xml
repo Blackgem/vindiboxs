@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Vindibox" name="Vindibox Repo" version="1.0.1" provider-name="Blackgem Vindicare">
+    <extension point="xbmc.addon.repository" name="Vindibox Repo">
+        <info>http://vindibox.androidtv.info/repo/addons.xml</info>
+        <checksum>http://vindibox.androidtv.info/repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://vindibox.androidtv.info/repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio Vindibox</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
