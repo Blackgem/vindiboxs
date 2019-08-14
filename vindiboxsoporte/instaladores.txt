@@ -1,0 +1,69 @@
+name="Instalador Vindibox 0.7 Soporte"
+url="http://vindiboxsoporte.androidtv.info/vindibox07s.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+name="Instalador Vindibox 0.6 Soporte Fulanito"
+url="http://vindiboxsoporte.androidtv.info/Vindibox-0.6u.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+name="Instalador Pruebas Soporte"
+url="http://vindiboxsoporte.androidtv.info/pruebass.zip"
+
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+
+name="Instalador Pruebas"
+
+url="http://vindiboxsoporte.androidtv.info/pruebas.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+name="Instalador Pruebas1"
+
+url="http://vindiboxsoporte.androidtv.info/pruebas1.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+name="Instalador Pruebas2"
+
+url="http://vindiboxsoporte.androidtv.info/pruebas2.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+name="Instalador Pruebas3"
+
+url="http://vindiboxsoporte.androidtv.info/pruebas3.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+name="Instalador Pruebas4"
+
+url="http://vindiboxsoporte.androidtv.info/pruebas4.zip"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"
+
+
+name="Soporte informatico por Tlf o Whatsapp al 668821410"
+url="none"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+
+description="Que no le confundan. En caso de duda pongase en contacto. Solo para configuraciones de serie para otras, consultar por si se le puede ayudar."
+
+
+name="Reparar menu inicial (usar solo si te lo piden)"
+url="none"
+img="http://vindibox.androidtv.info/icon.png"
+fanart="http://vindibox.androidtv.info/fanart.jpg"
+description="Configurar desde aqui puede borrar tus configuraciones personales"

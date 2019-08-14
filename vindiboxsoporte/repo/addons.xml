@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.program.vindiboxconf"
+       name="Vindibox Conf 0.6 Soporte"
+       version="0.6.02s"
+       provider-name="Blackgem">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>executable</provides>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Vindibox Repo">
+	<info>http://vindiboxsoporte.androidtv.info/repo/addons.xml</info>
+	<checksum>http://vindiboxsoporte.androidtv.info/repo/addons.xml.md5</checksum>
+	<datadir zip="true">http://vindiboxsoporte.androidtv.info/repo/</datadir>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por Blackgem Vindicare</summary>
+    <description>Vindicare 2018</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
